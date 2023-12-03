@@ -6,3 +6,5 @@ Ziel: Das Ziel dieser Aufgabe ist es, praktische Erfahrungen im Umgang mit Git u
 1. Anpassen von dem README.md mit deinem Namen
 
 2. Hinzufügen von einem HTML file das mit deinem Namen benannt ist
+
+Joel Iselin
